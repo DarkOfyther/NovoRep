@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 15;
+let numeroLimite = 7;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
